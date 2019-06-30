@@ -1,0 +1,79 @@
+/*headerの追加CSS-----------------------------*/
+.navbar-logo-link {
+    width: 20%;
+}
+
+.navbar-logo {
+    width: 100%;
+}
+/*----------------------------------------*/
+
+/*mainの追加CSS-----------------------------*/
+.py-4 {
+    background-color: white;
+    padding-top: 0px!important;
+}
+/*----------------------------------------*/
+
+/*KVの設定-----------------------------*/
+.top-wrapper {
+    padding-top: 180px;
+    padding-bottom: 300px;
+    margin-bottom: 15px;
+    background-image: url(../img/image3.jpg);
+    background-size: cover;
+    color: white;
+    text-align: center;
+}
+
+.top-wrapper h1{
+    opacity: 0.9;
+    margin-top: 15%;
+    font-size: 70px;
+    letter-spacing: 5px;
+}
+
+.top-wrapper h4{
+    opacity: 0.9;
+    font-size: 30px;
+}
+/*----------------------------------------*/
+
+/*searchesのCSS-----------------------------*/
+.card {
+    margin-bottom: 20px!important;
+    border-style: none!important;
+}
+
+.card-header {
+    background-image: linear-gradient(-225deg, #FFFEFF 0%, rgb(255, 230, 250) 100%);
+    border-style: none;
+    color: gray;
+}
+
+.heading, .searches {
+    text-align: center;
+    color: gray;
+}
+
+.search {
+    margin-bottom: 20px;
+    color: gray;
+}
+/*----------------------------------------*/
+
+/*footerのCSS-----------------------------*/
+.footer-logo {
+    width: 20%;
+}
+
+footer p{
+    text-align: center;
+    color: #b3aeb5;
+    font-size:12px;
+}
+
+footer {
+    padding-top: 30px;
+}
+/*----------------------------------------*/
